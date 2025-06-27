@@ -1,5 +1,5 @@
 このリポジトリに含まれるすべてのコード・資料は著作権により保護されています。
-著作権者（rin taka）の明示的な許可なく、以下の行為を一切禁止します：
+著作権者の明示的な許可なく、以下の行為を一切禁止します：
 
 複製
 改変
@@ -10,7 +10,7 @@
 この条件に同意しない場合は、閲覧を中止してください。
 
 All content in this repository is protected by copyright.
-The following actions are strictly prohibited without explicit permission from the copyright holder (rin taka):
+The following actions are strictly prohibited without explicit permission from the copyright holder:
 
 Copying
 Modification
